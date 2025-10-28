@@ -3,7 +3,7 @@
 **Lone-Wolf-X Manager** is a cutting-edge management solution designed to empower organizations with precision, autonomy, and control. Built with a focus on scalability, security, and operational efficiency, this project embodies the spirit of a “lone wolf”—independent, resilient, and forward-driven—while also providing a structured framework that ensures seamless collaboration and streamlined workflows.
 
 Crafted by **Kaneez Fatima**, the project demonstrates a considered balance of technical rigor and contemporary design principles. It reflects a professional approach to problem-solving, emphasising adaptability across diverse environments and use cases.
-
+ 
 ---
 
 ## Key Features
